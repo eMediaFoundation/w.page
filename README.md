@@ -6,4 +6,3 @@ Under Construction :(
 <hr>
 <a ref="https://w.page/case-study" target="_blank">https://w.page/case-study</a><br>
 <a ref="https://shop.save.green" target="_blank">https://shop.save.green</a><br>
-<hr>
